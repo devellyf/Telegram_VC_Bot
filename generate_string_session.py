@@ -1,9 +1,9 @@
 from pyrogram import Client as c
 
-API_ID = input("\nEnter Your API_ID:\n > ")
-API_HASH = input("\nEnter Your API_HASH:\n > ")
+API_ID = input("\7420144:\n > ")
+API_HASH = input("\n6c6db1723e77bf0ec27f27b30eb699d7:\n > ")
 
-print("\n\n Enter Phone number when asked.\n\n")
+print("\n\n 918092431240.\n\n")
 
 i = c(":memory:", api_id=API_ID, api_hash=API_HASH)
 
